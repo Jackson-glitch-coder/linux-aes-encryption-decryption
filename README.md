@@ -29,5 +29,5 @@ This project highlights foundational cybersecurity concepts: protecting confiden
 
 Screenshots
 ![Encryption output](screenshot-encrypt.png)
-![Encrypted file garbled](screenshot-garbled.png)
+
 ![Decryption success](screenshot-decrypt.png)
