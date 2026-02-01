@@ -1,6 +1,5 @@
 Linux AES-256 File Encryption & Decryption Demo.
 
-
   Overview
 A beginner-friendly hands-on project demonstrating symmetric encryption using OpenSSL on Linux.  
 I encrypted a plaintext message, verified it became unreadable, securely deleted the original, then decrypted it back to the original form.
