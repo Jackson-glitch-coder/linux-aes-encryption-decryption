@@ -1,4 +1,4 @@
-Linux AES-256 File Encryption & Decryption Demo
+Linux AES-256 File Encryption & Decryption Demo.
 
 Overview
 A beginner-friendly hands-on project demonstrating symmetric encryption using OpenSSL on Linux.  
